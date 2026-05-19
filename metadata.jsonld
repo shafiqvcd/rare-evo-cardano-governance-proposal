@@ -1,0 +1,131 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/tree/master/CIP-0100",
+    "CIP108": "https://github.com/cardano-foundation/CIPs/tree/master/CIP-0108"
+  },
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "title": "Rare Evo & Dev Gov Day 2026 (FREE GA) – Cardano Title Sponsorship – Main Stage & Live Stream",
+    "proposalCategory": "TreasuryWithdrawal",
+    "abstract": "Treasury funding proposal requesting support for Rare Evo 2026 and Cardano Dev Gov Day 2026 to expand Cardano ecosystem visibility, governance participation, developer engagement, enterprise outreach, community coordination, and ecosystem accessibility through global events, livestream distribution, and community activations.",
+    "motivation": "Rare Evo has become one of the largest independently operated blockchain conferences with strong Cardano ecosystem roots and participation. The proposal seeks to strengthen Cardano’s global ecosystem presence through sponsorship of Rare Evo 2026 and the second annual Cardano Dev Gov Day. Treasury support would expand ecosystem accessibility through free community attendance, free project booth opportunities, governance programming, technical workshops, contributor travel support, livestream expansion, and broader ecosystem exposure during a period of reduced market funding availability.",
+    "rationale": "The proposal leverages an already operational and proven multi-year conference infrastructure rather than building a new initiative from scratch. Rare Evo has consistently served as a coordination point for Cardano developers, governance participants, enterprises, investors, creators, and community members while simultaneously introducing external blockchain communities to Cardano technology and ecosystem projects. Funding this initiative supports long-term ecosystem resilience, onboarding, governance participation, and enterprise visibility while lowering participation barriers for community members and ecosystem projects.",
+    "requestedFunds": {
+      "amount": 755000,
+      "currency": "USD",
+      "conversionRate": {
+        "adaUsd": 0.24
+      }
+    },
+    "budgetBreakdown": [
+      {
+        "category": "Cardano Dev Gov Day 2026 Sponsorship",
+        "amount": 325000,
+        "currency": "USD"
+      },
+      {
+        "category": "Rare Evo 2026 Cardano Title Sponsorship",
+        "amount": 250000,
+        "currency": "USD"
+      },
+      {
+        "category": "Audit, Legal, Tax, Fees & Future Deposit",
+        "amount": 180000,
+        "currency": "USD"
+      }
+    ],
+    "timeline": {
+      "expectedFundingPeriod": "2026-06",
+      "eventDate": "2026-07",
+      "estimatedExecutionDurationMonths": 2
+    },
+    "strategicAlignment": [
+      {
+        "pillar": "Governance",
+        "description": "Supports governance participation, ecosystem coordination, governance workshops, and collaboration between DReps, SPOs, developers, and ecosystem contributors."
+      },
+      {
+        "pillar": "Community & Ecosystem Growth",
+        "description": "Supports ecosystem onboarding, visibility, technical education, enterprise outreach, startup exposure, livestream distribution, and community participation."
+      },
+      {
+        "pillar": "Ecosystem Sustainability & Resilience",
+        "description": "Strengthens existing ecosystem infrastructure and reduces participation barriers during a broader market contraction period."
+      }
+    ],
+    "deliverables": [
+      "Free General Admission access for Cardano community participants",
+      "Free booth space for selected Cardano ecosystem projects",
+      "Governance workshops and ecosystem coordination sessions",
+      "Technical workshops and breakout programming",
+      "Global livestream production and Cardano-focused media exposure",
+      "Travel and lodging support for ecosystem contributors",
+      "Cardano title sponsorship visibility across Rare Evo main stage and livestream"
+    ],
+    "metrics": [
+      {
+        "name": "Conference Attendance",
+        "target": "2500+ attendees"
+      },
+      {
+        "name": "Dev Gov Day Attendance",
+        "target": "500+ attendees"
+      },
+      {
+        "name": "Cardano Ecosystem Participation",
+        "target": "Expanded project, developer, governance, and community representation"
+      },
+      {
+        "name": "Livestream Reach",
+        "target": "Global livestream distribution and engagement"
+      }
+    ],
+    "previousFunding": [
+      "Unified Global Events Strategy funding",
+      "Project Catalyst grants for events, media, and software production"
+    ],
+    "auditAndOversight": {
+      "administrator": "Intersect",
+      "auditMethod": "Independent oversight and audit coordination through Intersect MBO processes including legal, tax, and treasury reporting requirements."
+    }
+  },
+  "authors": [
+    {
+      "name": "Rare Network / Rare Evo",
+      "email": "contact@rarenetwork.io",
+      "role": "Proposer"
+    },
+    {
+      "name": "Wes Parkinson",
+      "email": "wes@rarenetwork.io",
+      "role": "Primary Contact"
+    }
+  ],
+  "references": [
+    {
+      "label": "Rare Evo Official Website",
+      "uri": "https://rareevo.io/"
+    },
+    {
+      "label": "Cardano Dev Gov Day",
+      "uri": "https://rareevo.io/dev-gov-day"
+    },
+    {
+      "label": "Rare Network Twitter",
+      "uri": "https://x.com/RareNetworkWeb3"
+    },
+    {
+      "label": "Rare Evo Twitter",
+      "uri": "https://x.com/RareEvo"
+    },
+    {
+      "label": "Rare Network YouTube",
+      "uri": "https://www.youtube.com/@RareNetworkMedia"
+    },
+    {
+      "label": "Rare Evo News",
+      "uri": "https://rareevo.io/news"
+    }
+  ]
+}
