@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP108": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0108/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP108:body",
+      "@context": {
+        "references": {
+          "@id": "CIP108:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP108:referenceHash",
+              "@context": {
+                "hashDigest": "CIP108:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "title": "CIP108:title",
+        "abstract": "CIP108:abstract",
+        "motivation": "CIP108:motivation",
+        "rationale": "CIP108:rationale"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "abstract": "The primary mission of this proposal is to strengthen and expand Cardano’s global ecosystem\npresence through Rare Evo 2026 and Rare Dev Gov Day 2026, two established community-led\ninitiatives that have become major coordination, onboarding, networking, governance, and industry\noutreach platforms for the Cardano ecosystem.\nRare Evo is a multi-chain blockchain conference with deep Cardano roots, produced by Rare\nNetwork, originally founded through Cardano ecosystem participation and operation of t",
+    "motivation": "dedicated Cardano-focused technical, governance, and community coordination event occurring\nahead of Rare Evo on July 28th, 2026 at ARIA Las Vegas.\nThe proposal is designed to create direct ecosystem value through:\n• global Cardano brand visibility\n• ecosystem onboarding and education\n• governance participation\n• developer and startup exposure\n• enterprise and institutional outreach\n• cross-chain industry engagement\n• community retention\n• and expanded accessibility for Cardano ecosystem partici",
+    "rationale": "Rare Network has been active in the Cardano ecosystem since 2020, beginning with the launch of\nthe RARE stake pool and evolving into one of the most consistent producers of Cardano-focused\ncommunity building and ecosystem growth events, activations, and ecosystem media. Over the past\nhalf decade, the organization has built extensive operational infrastructure, industry relationships,\nand community trust through the successful execution of conferences, governance initiatives, side\nevents, ecosyst",
+    "title": "CBC Proposal Submission - RE CDGD 26 Sponsorship"
+  }
+}
